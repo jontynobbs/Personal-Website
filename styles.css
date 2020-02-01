@@ -1,0 +1,21 @@
+body{
+    background-color: #FFDAAD;
+    font-family: serif;
+}
+
+img{
+    width: 50%;
+    opacity: 60%;
+}
+
+
+.mainBody{
+    margin-left: 25%;
+    margin-right: 25%;
+    text-align: center;
+    display: inline-block;
+}
+
+#intro{
+
+}
